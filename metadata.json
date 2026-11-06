@@ -1,0 +1,6 @@
+{
+  "name": "Real Cash",
+  "description": "Daily task earning app with 10 daily tasks, Rs 60 reward per task, and daily withdrawals via JazzCash, EasyPaisa, and Bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
